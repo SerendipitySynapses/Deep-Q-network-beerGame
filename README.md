@@ -1,1 +1,1 @@
-# Deep-Q-network-beerGame
+# Deep Q Network For BeerGame
