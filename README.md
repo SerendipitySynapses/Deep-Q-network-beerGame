@@ -8,7 +8,7 @@ the efficiency, and shaped reward to prioritize system-wide objectives over loca
 • achieved near-optimal order quantities when playing with agents using base-stock policies <br/>
 and surpassed base-stock policies with Sterman co-players.
 
-Incorporated code from Afshin Oroojlooy’s repository, accessible at github, for my research.<br/>
+Incorporated code from Afshin Oroojlooy’s repository, accessible at github.<br/>
 Initially, encountering this repository was both exciting and challenging.<br/>
 The provided code did not function as intended at first, prompting me to deeply understand and enhance its functionality and made several
 enhancements and modifications.<br/>
